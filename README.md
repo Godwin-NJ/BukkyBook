@@ -1,0 +1,1 @@
+- Resource reference => Dotnet Mastery by Bhrugen Patel
